@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zohair</h1>
+<h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
 <h3 align="center">MERN Stack Developer | Passionate Problem Solver | Tech Enthusiast</h3>
 
 ---
@@ -7,22 +7,27 @@
 I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and user-centric web applications.  
 I love creating impactful digital products and continuously improving my skills in modern frontend and backend technologies.
 
-- 🔭 I work with **MongoDB, Express.js, React.js, and Node.js**
-- ⚡ I enjoy solving real-world problems through clean and efficient code
-- 🚀 Always learning, always improving
-- 💡 Passionate about UI/UX, APIs, cloud deployments & performance optimization
+- 🔭 Working with **MongoDB, Express.js, React.js, and Node.js**
+- ⚡ Passionate about clean code & solving real-world problems  
+- 🚀 Enthusiastic about modern UI, APIs, and cloud deployments  
+- 🎯 Always learning, always improving  
 
 ---
 
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/zohair313/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Zohair313"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zohair313">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack  
+
 ### **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -49,7 +54,7 @@ I love creating impactful digital products and continuously improving my skills 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Zohair313&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zohair313&theme=dark&hide_border=false)  
 
