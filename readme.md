@@ -6,9 +6,10 @@
 ## 💫 About Me
 I'm a dedicated **Full Stack Developer** focused on building fast, scalable, and user-centric web applications. With a strong foundation in both **MERN Stack** and **.NET technologies**, I enjoy tackling complex backend logic and creating seamless frontend experiences.
 
-- 🔭 Currently working as a **Back End Developer** at **Teknoloje Solutions**.
+- 🎯 Focused on writing scalable code and solving complex backend challenges
 - ⚡ Experienced in **MongoDB, Express.js, React.js, Node.js**, and **ASP.NET**.
 - 🎯 Always learning, always improving.
+  
 
 ---
 
