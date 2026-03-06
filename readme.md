@@ -6,9 +6,9 @@
 ## 💫 About Me
 I'm a dedicated **Full Stack Developer** focused on building fast, scalable, and user-centric web applications. With a strong foundation in both **MERN Stack** and **.NET technologies**, I enjoy tackling complex backend logic and creating seamless frontend experiences.
 
-- 🔭 Currently working as a **Back End Developer** at **Teknoloje Solutions**[cite: 17, 18].
-- ⚡ Experienced in **MongoDB, Express.js, React.js, Node.js**, and **ASP.NET**[cite: 7, 13].
-- 🎓 Pursuing a Bachelor's in **Computer Science** at **Muhammad Ali Jinnah University**[cite: 33, 34].
+- 🔭 Currently working as a **Back End Developer** at **Teknoloje Solutions**.
+- ⚡ Experienced in **MongoDB, Express.js, React.js, Node.js**, and **ASP.NET**.
+- 🎓 Pursuing a Bachelor's in **Computer Science** at **Muhammad Ali Jinnah University**.
 - 🎯 Always learning, always improving.
 
 ---
