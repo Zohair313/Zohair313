@@ -8,7 +8,6 @@ I'm a dedicated **Full Stack Developer** focused on building fast, scalable, and
 
 - 🔭 Currently working as a **Back End Developer** at **Teknoloje Solutions**.
 - ⚡ Experienced in **MongoDB, Express.js, React.js, Node.js**, and **ASP.NET**.
-- 🎓 Pursuing a Bachelor's in **Computer Science** at **Muhammad Ali Jinnah University**.
 - 🎯 Always learning, always improving.
 
 ---
