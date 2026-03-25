@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
-<h3 align="center">Full Stack Developer | MERN STACK DEVELOPER | Passionate Problem Solver</h3>
+<h3 align="center"> MERN STACK DEVELOPER | Passionate Problem Solver</h3>
 
 ---
 
