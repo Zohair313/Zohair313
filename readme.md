@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
-<h3 align="center"> MERN STACK DEVELOPER | Passionate Problem Solver</h3>
+<h3 align="center">MERN STACK DEVELOPER | Passionate Problem Solver</h3>
 
 ---
 
 ## 💫 About Me
-I'm a dedicated **Mern Stack Developer** focused on building fast, scalable, and user-centric web applications. With a strong foundation in both **MERN Stack** and **.NET technologies**, I enjoy tackling complex backend logic and creating seamless frontend experiences.
+I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and user-centric web applications. With a strong foundation in both **MERN Stack** and **.NET technologies**, I enjoy tackling complex backend logic and creating seamless frontend experiences.
 
-- 🎯 Focused on writing scalable code and solving complex backend challenges
+- 🎯 Focused on writing scalable code and solving complex backend challenges.
 - ⚡ Experienced in **MongoDB, Express.js, React.js, Node.js**, and **ASP.NET**.
-- 🎯 Always learning, always improving.
-  
+- 🚀 Always learning, always improving.
 
 ---
 
 ## 🌐 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zohairhussain.tms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -59,11 +58,13 @@ I'm a dedicated **Mern Stack Developer** focused on building fast, scalable, and
 
 ## 🐍 My GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
