@@ -59,14 +59,8 @@ I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and
 ## 🐍 My GitHub Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Zohair313/Zohair313/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
