@@ -25,6 +25,8 @@ I'm a dedicated **Mern Stack Developer** focused on building fast, scalable, and
 
 ---
 
+## 🛠️ Tech Stack
+
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +35,6 @@ I'm a dedicated **Mern Stack Developer** focused on building fast, scalable, and
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
 
 ### **Backend**
 ![.NET WebAPI](https://img.shields.io/badge/.NET_WebAPI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -55,3 +56,18 @@ I'm a dedicated **Mern Stack Developer** focused on building fast, scalable, and
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+
+## 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Zohair-Hussain/Zohair-Hussain/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zohair-Hussain&show_icons=true&theme=tokyonight&count_private=true" alt="Zohair's GitHub Stats" />
+</p>
