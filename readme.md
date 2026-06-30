@@ -62,17 +62,4 @@ I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and
 
 ---
 
-## 🐍 My GitHub Contribution 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zohair-Hussain&show_icons=true&theme=tokyonight&count_private=true" alt="Zohair's GitHub Stats" />
-</p>
