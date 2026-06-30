@@ -11,7 +11,13 @@ I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and
 - 🚀 Always learning, always improving.
 
 ---
+## 🐍 My GitHub Contribution 
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
 ## 🌐 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
@@ -56,7 +62,7 @@ I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and
 
 ---
 
-## 🐍 My GitHub Contribution Snake
+## 🐍 My GitHub Contribution 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
