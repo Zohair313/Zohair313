@@ -64,10 +64,6 @@ I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zohair313/Zohair313/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
 ---
 
 ## 📊 GitHub Stats
