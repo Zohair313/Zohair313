@@ -1,4 +1,4 @@
-[<!-- <h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
+ <h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
 <h3 align="center">MERN STACK DEVELOPER | Passionate Problem Solver</h3>
 
 ---
@@ -62,4 +62,3 @@ I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and
 
 ---
 
- -->
