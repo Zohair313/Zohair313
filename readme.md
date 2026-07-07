@@ -3,12 +3,18 @@
 
 ---
 
-## 💫 About Me
-I'm a dedicated **MERN Stack Developer** focused on building fast, scalable, and user-centric web applications. With a strong foundation in both **MERN Stack** and **.NET technologies**, I enjoy tackling complex backend logic and creating seamless frontend experiences.
+##💫 About Me
+I'm a dedicated Full-Stack & AI Automation Developer focused on building fast, scalable, and intelligent web applications. With a strong foundation in the MERN Stack and .NET technologies, I bridge the gap between robust backend systems and modern AI-driven solutions.
 
-- 🎯 Focused on writing scalable code and solving complex backend challenges.
-- ⚡ Experienced in **MongoDB, Express.js, React.js, Node.js**, and **ASP.NET**.
-- 🚀 Always learning, always improving.
+Beyond standard web development, I am deeply passionate about the AI Agentic ecosystem—building autonomous workflows, integrating language models, and developing custom developer tools to optimize efficiency.
+
+🎯 Focused on writing scalable code, building intelligent systems, and solving complex backend challenges.
+
+⚡ Expert in MongoDB, Express.js, React.js, Node.js, and ASP.NET Core.
+
+🤖 Experienced in integrating LLMs, configuring MCP (Model Context Protocol) servers, and building custom CLI tools for developer automation.
+
+🚀 Always exploring the bleeding edge of AI automation and agentic workflows.
 
 ---
 ## 🐍 My GitHub Contribution 
