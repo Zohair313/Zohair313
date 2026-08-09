@@ -1,7 +1,7 @@
 <div align="center">
 
-```text
-zohair313@github ~ $ whoami
+
+
  ____________________________________________________
 |                                                    |
 |    ███████╗ ██████╗ ██╗  ██╗ █████╗ ██╗██████╗     |
@@ -10,9 +10,10 @@ zohair313@github ~ $ whoami
 |     ███╔╝  ██║   ██║██╔══██║██╔══██║██║██╔══██╗    |
 |    ███████╗╚██████╔╝██║  ██║██║  ██║██║██║  ██║    |
 |    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    |
-|____________________________________________________|<h3 align="center">MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
+|____________________________________________________|
+</div>
+<h3 align="center">MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
 
----
 
 ##💫 About Me
 I'm a dedicated Full-Stack & AI Automation Developer focused on building fast, scalable, and intelligent web applications. With a strong foundation in the MERN Stack and .NET technologies, I bridge the gap between robust backend systems and modern AI-driven solutions.
