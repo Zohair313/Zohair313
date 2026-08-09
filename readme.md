@@ -1,84 +1,37 @@
-<div align="center">
-
-  <!-- macOS Style Terminal Wrapper -->
-  `c-` -cSs-:
-             `- *s#%%%#S#%%%%S+:
-            =#%%%%#%%%%%%%%%@%s#=
-           c%%%%%%%%%%%%########%:
-          -%#####S######SSscS%%%%+
-         +#%%%c` : : : : :`````=S%%c
-          =@%s ``````````````` =%%%-
-          -%c- `............` :*%=
-           #%-=-+++````+++==--%%:
-          c%c++**=+=+=**++c#S
-          `=*s:` .+c:c*+s`*c.`:S*:
-          :=+c=-:--==.=+--:=c+:`
-            -s=-::::-:`::---s-
-             S*:`-sSsssss=`:cs
-             -*%:#c------*#-+%-
-              =%%s-:SS:-c###=
-               +#%####S#%%#+
-             :*#*=cS%####Sc=**:
-        :-=*cSS%##%@c`:-+ccsc-:`*@%#SSsc+=-:
-      -S%%%%%%%%%%%%@s-````````-s@%%%%%%%%%%S-
-    -*%%%%%%%%%%%%%%%S*====*s%%%%%%%%%%%%%%%S##s*-
-   cS%################S%%%%%%%%%%%%%%%%%%%%%S####Ss
-  :#S#################S########%#################S-
-  c#################SSS################SS##########c
- :S%%%%%%#=------------------------------------S%%%%%%#S:
- =########------------------------------------:S########=
- c%%%%%%%%%=----------------------------------:-#%%%%%%%%%*        :::::::
-:S%%%%%%%%%%S+:-----------------------------:-:=#####%%%%%S%#=--:c%%%%%%%
-+###%%%%%%#S#%%*:---------------------------:-:+########%%%%ssssS%%%%%%%s
-c%%%%%%%%%%%Sc##c:----------------------------:****S%%%%%%%s**ssc%%%%%%S%+
--S###########%*`+#%S:-------------------------:-:c%#=`c%%%%%SscS%%%%%%%%%:
-+############s-.+#S-:------------------------:s%#=.-S#%%%Sccss########%#
-c#####S#######s+-:-c=:---------:-------------:*-:-+s##S%#ccs##########s
-s@###SS#######S:`::`*+-:::::::::::::::::::::::*`:::`S###%s**sSSsSS##@+
-`s%%%%@%%%%%#++++++cscc**+=+++++++++++++++++*css+++++#%%%@%%%%%%%%@@@@-
---::::``:==========-----------------------------------====+*****++****+-:
-=-::::::::::::::::`:::::`:::```````````````````````::::::`````````````==
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-  <h3>MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
-
-</div>
+ <h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
+<h3 align="center">MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
 
 ---
 
-## 💫 About Me
+##💫 About Me
 I'm a dedicated Full-Stack & AI Automation Developer focused on building fast, scalable, and intelligent web applications. With a strong foundation in the MERN Stack and .NET technologies, I bridge the gap between robust backend systems and modern AI-driven solutions.
 
 Beyond standard web development, I am deeply passionate about the AI Agentic ecosystem—building autonomous workflows, integrating language models, and developing custom developer tools to optimize efficiency.
 
-🎯 **Focus:** Focused on writing scalable code, building intelligent systems, and solving complex backend challenges.
+🎯 Focused on writing scalable code, building intelligent systems, and solving complex backend challenges.
 
-⚡ **Core Tech:** Expert in MongoDB, Express.js, React.js, Node.js, and ASP.NET Core.
+⚡ Expert in MongoDB, Express.js, React.js, Node.js, and ASP.NET Core.
 
-🤖 **AI & Automation:** Experienced in integrating LLMs, configuring MCP (Model Context Protocol) servers, and building custom CLI tools for developer automation.
+🤖 Experienced in integrating LLMs, configuring MCP (Model Context Protocol) servers, and building custom CLI tools for developer automation.
 
-🚀 **Mission:** Always exploring the bleeding edge of AI automation and agentic workflows.
+🚀 Always exploring the bleeding edge of AI automation and agentic workflows.
 
 ---
-
-## 🐍 My GitHub Contribution 
+## 🐍 My GitHub Contribution 
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zohairhussain.tms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zohairhussain.tms@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -112,3 +65,8 @@ Beyond standard web development, I am deeply passionate about the AI Agentic eco
 ### **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+
+is code mai updatiuon krka do jasa pic mai layout hn wasa purana same rahny daina 
