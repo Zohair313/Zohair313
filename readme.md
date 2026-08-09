@@ -1,44 +1,64 @@
- ____________________________________________________
-|                                                    |
-|    ███████╗ ██████╗ ██╗  ██╗ █████╗ ██╗██████╗     |
-|    ╚══███╔╝██╔═══██╗██║  ██║██╔══██╗██║██╔══██╗    |
-|      ███╔╝ ██║   ██║███████║███████║██║██████╔╝    |
-|     ███╔╝  ██║   ██║██╔══██║██╔══██║██║██╔══██╗    |
-|    ███████╗╚██████╔╝██║  ██║██║  ██║██║██║  ██║    |
-|    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    |
-|____________________________________________________|
-<h3 align="center">MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
+<div align="center">
 
+  <!-- macOS Style Terminal Wrapper -->
+  <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; margin: 20px auto; max-width: 650px; width: 100%;">
+    <tr>
+      <!-- Window Controls & Header Title -->
+      <td style="padding: 10px 15px; border-bottom: 1px solid #21262d;">
+        <span style="color: #ff5f56; font-size: 18px; font-weight: bold;">●</span> 
+        <span style="color: #ffbd2e; font-size: 18px; font-weight: bold;">●</span> 
+        <span style="color: #27c93f; font-size: 18px; font-weight: bold;">●</span>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <code style="color: #8b949e; font-family: monospace;">zohair313@github: ~$ ./portrait.sh</code>
+      </td>
+    </tr>
+    <tr>
+      <!-- ASCII Portrait Animation Image -->
+      <td align="center" style="padding: 20px; background-color: #0b0e14;">
+        <img src="https://gitskins.com/api/render/portrait?user=zohair313" alt="Terminal Portrait ASCII Animation" width="100%" style="border-radius: 5px;" />
+      </td>
+    </tr>
+  </table>
 
-##💫 About Me
+  <h3>MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
+
+</div>
+
+---
+
+## 💫 About Me
 I'm a dedicated Full-Stack & AI Automation Developer focused on building fast, scalable, and intelligent web applications. With a strong foundation in the MERN Stack and .NET technologies, I bridge the gap between robust backend systems and modern AI-driven solutions.
 
 Beyond standard web development, I am deeply passionate about the AI Agentic ecosystem—building autonomous workflows, integrating language models, and developing custom developer tools to optimize efficiency.
 
-🎯 Focused on writing scalable code, building intelligent systems, and solving complex backend challenges.
+🎯 **Focus:** Focused on writing scalable code, building intelligent systems, and solving complex backend challenges.
 
-⚡ Expert in MongoDB, Express.js, React.js, Node.js, and ASP.NET Core.
+⚡ **Core Tech:** Expert in MongoDB, Express.js, React.js, Node.js, and ASP.NET Core.
 
-🤖 Experienced in integrating LLMs, configuring MCP (Model Context Protocol) servers, and building custom CLI tools for developer automation.
+🤖 **AI & Automation:** Experienced in integrating LLMs, configuring MCP (Model Context Protocol) servers, and building custom CLI tools for developer automation.
 
-🚀 Always exploring the bleeding edge of AI automation and agentic workflows.
+🚀 **Mission:** Always exploring the bleeding edge of AI automation and agentic workflows.
 
 ---
-## 🐍 My GitHub Contribution 
+
+## 🐍 My GitHub Contribution 
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
-## 🌐 Connect With Me  
+
+---
+
+## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zohairhussain.tms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zohairhussain.tms@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -72,6 +92,3 @@ Beyond standard web development, I am deeply passionate about the AI Agentic eco
 ### **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-</div>
