@@ -1,24 +1,44 @@
 <div align="center">
 
   <!-- macOS Style Terminal Wrapper -->
-  <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; margin: 20px auto; max-width: 650px; width: 100%;">
-    <tr>
-      <!-- Window Controls & Header Title -->
-      <td style="padding: 10px 15px; border-bottom: 1px solid #21262d;">
-        <span style="color: #ff5f56; font-size: 18px; font-weight: bold;">●</span> 
-        <span style="color: #ffbd2e; font-size: 18px; font-weight: bold;">●</span> 
-        <span style="color: #27c93f; font-size: 18px; font-weight: bold;">●</span>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <code style="color: #8b949e; font-family: monospace;">zohair313@github: ~$ ./portrait.sh</code>
-      </td>
-    </tr>
-    <tr>
-      <!-- ASCII Portrait Animation Image -->
-      <td align="center" style="padding: 20px; background-color: #0b0e14;">
-        <img src="https://gitskins.com/api/render/portrait?user=zohair313" alt="Terminal Portrait ASCII Animation" width="100%" style="border-radius: 5px;" />
-      </td>
-    </tr>
-  </table>
+  `c-` -cSs-:
+             `- *s#%%%#S#%%%%S+:
+            =#%%%%#%%%%%%%%%@%s#=
+           c%%%%%%%%%%%%########%:
+          -%#####S######SSscS%%%%+
+         +#%%%c` : : : : :`````=S%%c
+          =@%s ``````````````` =%%%-
+          -%c- `............` :*%=
+           #%-=-+++````+++==--%%:
+          c%c++**=+=+=**++c#S
+          `=*s:` .+c:c*+s`*c.`:S*:
+          :=+c=-:--==.=+--:=c+:`
+            -s=-::::-:`::---s-
+             S*:`-sSsssss=`:cs
+             -*%:#c------*#-+%-
+              =%%s-:SS:-c###=
+               +#%####S#%%#+
+             :*#*=cS%####Sc=**:
+        :-=*cSS%##%@c`:-+ccsc-:`*@%#SSsc+=-:
+      -S%%%%%%%%%%%%@s-````````-s@%%%%%%%%%%S-
+    -*%%%%%%%%%%%%%%%S*====*s%%%%%%%%%%%%%%%S##s*-
+   cS%################S%%%%%%%%%%%%%%%%%%%%%S####Ss
+  :#S#################S########%#################S-
+  c#################SSS################SS##########c
+ :S%%%%%%#=------------------------------------S%%%%%%#S:
+ =########------------------------------------:S########=
+ c%%%%%%%%%=----------------------------------:-#%%%%%%%%%*        :::::::
+:S%%%%%%%%%%S+:-----------------------------:-:=#####%%%%%S%#=--:c%%%%%%%
++###%%%%%%#S#%%*:---------------------------:-:+########%%%%ssssS%%%%%%%s
+c%%%%%%%%%%%Sc##c:----------------------------:****S%%%%%%%s**ssc%%%%%%S%+
+-S###########%*`+#%S:-------------------------:-:c%#=`c%%%%%SscS%%%%%%%%%:
++############s-.+#S-:------------------------:s%#=.-S#%%%Sccss########%#
+c#####S#######s+-:-c=:---------:-------------:*-:-+s##S%#ccs##########s
+s@###SS#######S:`::`*+-:::::::::::::::::::::::*`:::`S###%s**sSSsSS##@+
+`s%%%%@%%%%%#++++++cscc**+=+++++++++++++++++*css+++++#%%%@%%%%%%%%@@@@-
+--::::``:==========-----------------------------------====+*****++****+-:
+=-::::::::::::::::`:::::`:::```````````````````````::::::`````````````==
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
   <h3>MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
 
