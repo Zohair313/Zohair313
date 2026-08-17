@@ -22,15 +22,7 @@ Beyond standard web development, I am deeply passionate about the AI Agentic eco
 I built a dynamic, client-side ASCII image reveal component using **React, TypeScript, and HTML5 Canvas**. It converts any image into an interactive, high-contrast ASCII art matrix that reveals the original photo as you move your cursor!
 
 <div align="center">
-  <!-- 
-    REPLACE THE IMAGE SRC WITH A URL TO A GIF OF YOUR COMPONENT IN ACTION 
-    REPLACE THE HREF WITH A LINK TO YOUR LIVE DEMO (e.g., Vercel)
-  -->
-  <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">
-    <img src="https://via.placeholder.com/600x300.png?text=Upload+a+GIF+of+your+ASCII+Reveal+Here" alt="ASCII Reveal Demo GIF" />
-  </a>
-  <br/>
-  <i>Click the image above to try the live demo!</i>
+  <img src="./ascii-demo.gif" alt="ASCII Reveal Demo GIF" width="600" />
 </div>
 
 ---
