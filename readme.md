@@ -1,9 +1,9 @@
- <h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
+<h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
 <h3 align="center">MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
 
 ---
 
-##💫 About Me
+## 💫 About Me
 I'm a dedicated Full-Stack & AI Automation Developer focused on building fast, scalable, and intelligent web applications. With a strong foundation in the MERN Stack and .NET technologies, I bridge the gap between robust backend systems and modern AI-driven solutions.
 
 Beyond standard web development, I am deeply passionate about the AI Agentic ecosystem—building autonomous workflows, integrating language models, and developing custom developer tools to optimize efficiency.
@@ -17,21 +17,40 @@ Beyond standard web development, I am deeply passionate about the AI Agentic eco
 🚀 Always exploring the bleeding edge of AI automation and agentic workflows.
 
 ---
-## 🐍 My GitHub Contribution 
+
+## 🚀 Featured Project: Interactive ASCII Reveal
+I built a dynamic, client-side ASCII image reveal component using **React, TypeScript, and HTML5 Canvas**. It converts any image into an interactive, high-contrast ASCII art matrix that reveals the original photo as you move your cursor!
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <!-- 
+    REPLACE THE IMAGE SRC WITH A URL TO A GIF OF YOUR COMPONENT IN ACTION 
+    REPLACE THE HREF WITH A LINK TO YOUR LIVE DEMO (e.g., Vercel)
+  -->
+  <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">
+    <img src="https://via.placeholder.com/600x300.png?text=Upload+a+GIF+of+your+ASCII+Reveal+Here" alt="ASCII Reveal Demo GIF" />
+  </a>
+  <br/>
+  <i>Click the image above to try the live demo!</i>
+</div>
+
+---
+
+## 🐍 My GitHub Contribution 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
-## 🌐 Connect With Me  
+
+## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zohairhussain.tms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zohairhussain.tms@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -65,7 +84,3 @@ Beyond standard web development, I am deeply passionate about the AI Agentic eco
 ### **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-
