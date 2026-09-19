@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Zohair Hussain</h1>
-<h3 align="center">MERN Stack Developer | AI & Agentic Workflow Enthusiast</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Zohair Hussain Profile Banner" src="./dark.svg" width="100%">
+</picture>
 
----
+<br><br>
 
 ## 💫 About Me
 I'm a dedicated Full-Stack & AI Automation Developer focused on building fast, scalable, and intelligent web applications. With a strong foundation in the MERN Stack and .NET technologies, I bridge the gap between robust backend systems and modern AI-driven solutions.
 
 Beyond standard web development, I am deeply passionate about the AI Agentic ecosystem—building autonomous workflows, integrating language models, and developing custom developer tools to optimize efficiency.
 
-🎯 Focused on writing scalable code, building intelligent systems, and solving complex backend challenges.
-
-⚡ Expert in MongoDB, Express.js, React.js, Node.js, and ASP.NET Core.
-
-🤖 Experienced in integrating LLMs, configuring MCP (Model Context Protocol) servers, and building custom CLI tools for developer automation.
-
-🚀 Always exploring the bleeding edge of AI automation and agentic workflows.
+🎯 **Focus:** Writing scalable code, building intelligent systems, and solving complex backend challenges.  
+⚡ **Core Stack:** MongoDB, Express.js, React.js, Node.js, and ASP.NET Core.  
+🤖 **AI & Automation:** Integrating LLMs, configuring MCP (Model Context Protocol) servers, and building custom CLI tools for developer automation.  
+🚀 **Current Endeavors:** Always exploring the bleeding edge of AI automation and agentic workflows.
 
 ---
 
@@ -35,7 +35,7 @@ I built a dynamic, client-side ASCII image reveal component using **React, TypeS
 
 <br>
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me   
 <p align="left">
   <a href="https://www.linkedin.com/in/zohair-hussain-b4a92a370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -65,7 +65,6 @@ I built a dynamic, client-side ASCII image reveal component using **React, TypeS
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Object--Oriented_Programming-blue?style=for-the-badge)
 
 ### **Databases**
 ![SQL Server / SSMS](https://img.shields.io/badge/SQL_Server_SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -73,6 +72,6 @@ I built a dynamic, client-side ASCII image reveal component using **React, TypeS
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Tools**
+### **Tools & Cloud**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
